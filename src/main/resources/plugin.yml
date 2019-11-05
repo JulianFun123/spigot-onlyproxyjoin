@@ -1,0 +1,8 @@
+name: OnlyProxyJoin
+version: 1.0
+author: JulianFun123
+main: de.interaapps.mc.onlyproxyjoin.OnlyProxyJoin
+
+commands:
+  onlyproxyjoin:
+    description: OnlyProxyJoin commands
